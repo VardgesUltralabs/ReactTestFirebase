@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div>
-      <h1>firebase 2222rvrvdvdvdfvdfv</h1>
+      <h1>Heloo firebase</h1>
     </div>
   );
 };
